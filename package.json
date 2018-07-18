@@ -1,15 +1,27 @@
 {
   "name": "yopta-loader",
   "version": "0.1.0",
-  "description": "",
+  "description": "Webpack loader for YoptaScript",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kristobal Junta",
+  "author": "Kristobal Junta <junta.kristobal@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "yopta": "^0.3.5"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KristobalJunta/yopta-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "yoptascript",
+    "transpiler",
+    "module"
+  ],
+  "homepage": "https://github.com/KristobalJunta/yopta-loader"
 }
